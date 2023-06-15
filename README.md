@@ -2,7 +2,7 @@ Hello Guys,
 
 See i have created a simple url shortner in python see firstly go to your vscode and make a new python file and uplaod this project codes into that file and see if u are facing error in like flask has no repositoy or like realted to flask
 then plz do install flask with terminal by pip install flask and if not then go to google and search latest version of flask and do copy that code with the version and install it or else it will be installed by 
-pip install flask>>>>
+pip install flask
 
 
 --------------------
