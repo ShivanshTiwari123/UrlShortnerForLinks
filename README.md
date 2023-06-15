@@ -5,7 +5,7 @@ then plz do install flask with terminal by pip install flask and if not then go 
 pip install flask>>>>
 
 
->>>>>>>>>>>>>.uu>>>>>>>>>>>>>>>>>>
+--------------------
 Listen Plz copy the code and paste it on your file and before running once open terminal and see if there is any errror if everthing is okay just run the project and there in terminal you will see
 a link with like this http://127.0.0.1:5000/ so plz copy that and go to that link and boom there you will see a url shortner just paste any big link like go to any site and just paste the url there in url shortner
 you will press enter and there you can see a link just clik it and you will be redirected to your url shortner link.....
